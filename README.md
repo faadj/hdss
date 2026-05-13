@@ -26,8 +26,6 @@ Confirmation: logic analyzes the video feed. If it sees fire or smoke visually, 
 
 
 ## Hardware & Tech Stack
-Is project ko **Phase 2 Hybrid Implementation** tak develop kiya gaya hai. Niche di gayi core technologies use ki gayi hain:
-
 * **Processing Unit:** NVIDIA Jetson Nano (Linux-based OS).
 * **Sensors:** MQ-2 Gas Sensor (via ADC1115 converter) & 2MP USB Camera.
 * **Language:** Python 3.11.
